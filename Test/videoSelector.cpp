@@ -6,7 +6,7 @@
 
 int main() {
     // Caminho para o arquivo bat
-    std::string batFilePath = "C:\\ImagensRei\\Selecionar_Video.bat";
+    std::string batFilePath = "C:\\Users\\pedroc\\Documents\\GitHub\\printer-menu\\Test";
 
     // Novo caminho para o vídeo
     std::string newVideoPath = "C:\\ImagensRei\\video_04.mp4";
