@@ -9,7 +9,7 @@ int main() {
     std::string batFilePath = "C:\\ImagensRei\\Selecionar_Video.bat";
 
     // Novo caminho para o vídeo
-    std::string newVideoPath = "C:\\ImagensRei\\NovoVideo.mp4";
+    std::string newVideoPath = "C:\\ImagensRei\\video_04.mp4";
 
     // Abrir o arquivo bat em modo de leitura
     std::ifstream batFile(batFilePath);
